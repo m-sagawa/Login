@@ -5,7 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <title>ログイン</title>
-<link rel="stylesheet" href="${pageContext.request.contextPath}/style.css">
+<link rel="stylesheet" href="${pageContext.request.contextPath}/views/style.css">
 </head>
 <body>
 	<div class="error">${loginBean.emsg}</div><br>
